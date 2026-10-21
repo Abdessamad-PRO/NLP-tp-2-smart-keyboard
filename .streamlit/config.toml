@@ -1,0 +1,8 @@
+[theme]
+# Force le thème clair par défaut, indépendamment des réglages du système
+base = "light"
+
+[client]
+# Masque les options du menu (y compris le sélecteur de thème Light/Dark/System)
+# "minimal" n'affiche que les options définies explicitement par le développeur.
+toolbarMode = "minimal"
