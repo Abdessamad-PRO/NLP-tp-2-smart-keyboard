@@ -145,8 +145,6 @@ Part des positions où le vrai mot suivant figure parmi les $k$ suggestions (ici
     └── ngram_results.png
 ```
 
-> `app.py` **ne modifie aucun fichier du projet** : il utilise uniquement `src/pipeline.py` et `src/evaluate.py`.
-
 ---
 
 <a id="installation"></a>
